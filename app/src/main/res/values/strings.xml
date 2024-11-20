@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pet</string>
+    <string-array name="opcoes_foto">
+        <item>Cachorro</item>
+        <item>Gato</item>
+    </string-array>
+</resources>
